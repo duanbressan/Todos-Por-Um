@@ -1,4 +1,12 @@
 # Todos Por Um
+
+## Logo
+![ScreenShot](https://github.com/duanbressan/Todos-Por-Um/blob/master/Documentacao/Logos/Logo.png?raw=true)
+
+## Banner
+![ScreenShot](https://github.com/duanbressan/Todos-Por-Um/blob/master/Documentacao/Logos/Capa.png?raw=true)
+
+## Slogan
 Um por todos e todos por um mundo sem preconceito.
 
 ## Problema que Resolvemos?
@@ -25,7 +33,6 @@ Por último, vamos passar o feedback da empresa para os consumidores que fizeram
 
 Completando o ciclo, vamos oferecer às empresas (com ou sem denúncias) pesquisas frequentes com seus consumidores para ajudar a mesma a evoluir no seu atendimento, analisando a satisfação do público e criando um selo que garante sua preocupação com um atendimento igualitário.
 
-
 ## Nossos Diferencias e Oportunidades
 Viemos mudar o mercado, atualmente existem concorrentes indiretos como o reclame aqui e outras ouvidorias, porém nossa principal área de atuação não é a denúncia em si, como os demais.
 
@@ -35,3 +42,6 @@ Vamos sim ouvir as denúncia, filtrado-as e fazer a ponte entre elas e a gestão
 
 Nosso objetivo é criar um Selo de qualidade e avaliação das empresas tão bem estruturado que sejamos tão valorizados, reconhecidos e importantes no mercado quanto uma ISO, para todos terem orgulho de apresentar o nosso selo.
 
+## Documentação
+* [Personas](https://github.com/duanbressan/Todos-Por-Um/blob/master/Documentacao/Personas.md)
+* [Protótipo - Versão 1](https://github.com/duanbressan/Todos-Por-Um/tree/master/Documentacao/Prot%C3%B3tipos/Vers%C3%A3o%201)
