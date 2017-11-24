@@ -45,3 +45,9 @@ Nosso objetivo é criar um Selo de qualidade e avaliação das empresas tão bem
 ## Documentação
 * [Personas](https://github.com/duanbressan/Todos-Por-Um/blob/master/Documentacao/Personas.md)
 * [Protótipo - Versão 1](https://github.com/duanbressan/Todos-Por-Um/tree/master/Documentacao/Prot%C3%B3tipos/Vers%C3%A3o%201)
+* [Lading Page](https://github.com/duanbressan/Todos-Por-Um/blob/master/Documentacao/Lading%20Page.md)
+
+## Presença nas Mídias
+* [Vídeo Institucional](https://www.youtube.com/watch?v=ygBOuf4qW3I)
+* [Canal do Youtube](https://www.youtube.com/channel/UChWihQTG8bba6xr9-XKZLbw)
+* [Sinapse da Inovação 2017](http://sc6.sinapsedainovacao.com.br/sc6/ideia/todos-por-um-software-de-luta-contra-o-preconceito-e-discriminacao)
