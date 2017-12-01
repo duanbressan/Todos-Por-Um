@@ -47,7 +47,7 @@ Nosso objetivo é criar um Selo de qualidade e avaliação das empresas tão bem
 * [Canvas 1](https://github.com/duanbressan/Todos-Por-Um/blob/master/Documentacao/Canvas%201.md)
 * [Personas](https://github.com/duanbressan/Todos-Por-Um/blob/master/Documentacao/Personas.md)
 * [Protótipo - Versão 1](https://github.com/duanbressan/Todos-Por-Um/tree/master/Documentacao/Prot%C3%B3tipos/Vers%C3%A3o%201)
-* [Lading Page](https://github.com/duanbressan/Todos-Por-Um/blob/master/Documentacao/Lading%20Page.md)
+* [Lading Page](https://github.com/duanbressan/Todos-Por-Um/tree/master/Documentacao/Lading%20Page)
 
 ## Mídias
 * [Vídeo Institucional](https://www.youtube.com/watch?v=ygBOuf4qW3I)
